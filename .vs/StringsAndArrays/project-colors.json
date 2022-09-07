@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c5808f38-cc55-4f3a-bd08-7c6ef6149207": {
+      "ProjectGuid": "c5808f38-cc55-4f3a-bd08-7c6ef6149207",
+      "DisplayName": "FruitArray",
+      "ColorIndex": 0
+    },
+    "aafa8d2a-a521-49f4-8167-84409a241402": {
+      "ProjectGuid": "aafa8d2a-a521-49f4-8167-84409a241402",
+      "DisplayName": "DontPanic",
+      "ColorIndex": 1
+    },
+    "95f8474c-4099-479d-9d53-2e8bf779969f": {
+      "ProjectGuid": "95f8474c-4099-479d-9d53-2e8bf779969f",
+      "DisplayName": "StringReplace",
+      "ColorIndex": 2
+    },
+    "c93395af-2e90-4778-b02c-1e9b4700a669": {
+      "ProjectGuid": "c93395af-2e90-4778-b02c-1e9b4700a669",
+      "DisplayName": "HelloWorldReversed",
+      "ColorIndex": 3
+    },
+    "bc3cf8ae-c265-4f06-b71b-a9cd9f523d51": {
+      "ProjectGuid": "bc3cf8ae-c265-4f06-b71b-a9cd9f523d51",
+      "DisplayName": "StringReverse",
+      "ColorIndex": 4
+    },
+    "b3e6af40-7ad7-4354-a3d0-a9ddb7697198": {
+      "ProjectGuid": "b3e6af40-7ad7-4354-a3d0-a9ddb7697198",
+      "DisplayName": "HolCounter",
+      "ColorIndex": 5
+    },
+    "e02b403c-3639-4090-affd-6df198cc0e79": {
+      "ProjectGuid": "e02b403c-3639-4090-affd-6df198cc0e79",
+      "DisplayName": "ACharacterCounter",
+      "ColorIndex": 6
+    },
+    "eae73173-d757-40aa-99d5-1075fad32546": {
+      "ProjectGuid": "eae73173-d757-40aa-99d5-1075fad32546",
+      "DisplayName": "FirstOrLast",
+      "ColorIndex": 7
+    },
+    "76ab7d77-b878-4b02-a7e8-83973889101b": {
+      "ProjectGuid": "76ab7d77-b878-4b02-a7e8-83973889101b",
+      "DisplayName": "StringsAndArrays",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}
